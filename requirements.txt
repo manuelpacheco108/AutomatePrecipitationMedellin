@@ -2,3 +2,5 @@ requests
 scrapy
 selenium
 twisted
+pywhatkit
+selenium
